@@ -1,4 +1,4 @@
-Hackathon Resume Builder
+Dnamic Resume Builder
 
 A web application that generates a resume based on user input and allows for PDF download.
 
